@@ -1,4 +1,4 @@
+#this line is comment
+*.o
 *.a
-*.b
-*.c
 !lib.a
